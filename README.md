@@ -16,12 +16,14 @@ Profolio는 개발자를 위한, 쉽고 빠르게 제작 할 수 있는 정적 �
 <p align="center">
   <h2 align="left"> 3/3 (1주차) ⭐</h2>
   <p align="left">
-  - 오티
+  - 오티<br/>
+  - ㅇㅇ
   
 <p align="center">
   <h2 align="left"> 3/10 (2주차) ⭐</h2>
   <p align="left">
   - 발표
+  - ㅇㅇ
   
 <p align="center">
   <h2 align="left"> 3/17 (3주차) ⭐</h2>
