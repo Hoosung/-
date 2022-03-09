@@ -94,5 +94,5 @@
 <p align="center">
   <h2 align="left"> 🚩 6/16 (16주차) </h2>  
   <p align="left">
-  • 캡디 B조 <br/>
+  • 캡디 B조 작품 감상<br/>
 
