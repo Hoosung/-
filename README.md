@@ -10,7 +10,9 @@ Profolio는 개발자를 위한, 쉽고 빠르게 제작 할 수 있는 정적 �
     <br/>
     <br/>
     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
-
+    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
+    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"/>
+  
   <br/>
   
 <p align="center">
