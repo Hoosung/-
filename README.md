@@ -29,7 +29,7 @@ Profolio는 개발자를 위한, 쉽고 빠르게 제작 할 수 있는 정적 �
   <h2 align="left"> 3/31 (5주차) 🔥</h2>  
 
 <p align="center">
-  <h2 align="left"> 4/7 (6주차) ✨</h2>  
+  <h2 align="left"> 4/7 (6주차) ⭐</h2>  
 
 <p align="center">
   <h2 align="left"> 4/14 (7주차) ✨</h2>  
