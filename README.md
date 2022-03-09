@@ -1,10 +1,10 @@
 <p align="center">
   <h1 align="center"> Hoosung's Portfolio ✨</h1>
 
-  <p align="center">
-  이번 캡스톤디자인1 과목의 주제는 반응형 웹 사이트 제작입니다.<br/> 
-  Github 페이지로 호스팅됩니다. <br/>
-  <a href="https://congchu.github.io/web-porfolio/">DEMO</a> 웹 사이트 참고예정 <br/>
+  <p align="left">
+  • 이번 캡스톤디자인1 과목의 주제는 반응형 웹 사이트 제작입니다.<br/> 
+  • 반응형 웹이란? 단말의 종류와 화면 크기에 실시간 반응하여 웹 페이지를 최적화된 화면 구성으로 보여주는 웹<br/>
+  • <a href="https://congchu.github.io/web-porfolio/">DEMO</a> 웹 사이트 참고예정 <br/>
     <br/>
     <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=FF4040"/>
     <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=3D567C"/>
