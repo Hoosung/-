@@ -11,7 +11,7 @@ Profolio는 개발자를 위한, 쉽고 빠르게 제작 할 수 있는 정적 �
     <br/>
     <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=563D7C"/>
     <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=3D567C"/>
-    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=563D7C"/>
+    <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=FFFF31"/>
   
   <br/>
   
