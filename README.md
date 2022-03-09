@@ -22,7 +22,7 @@
   • ㅇㅇ
   
 <p align="center">
-  <h2 align="left"> 🚩 3/10 (2주차) </h2>
+  <h2 align="left"> ✔ 3/10 (2주차) </h2>
   <p align="left">
   • 발표<br/>
   • ㅇㅇ
@@ -33,7 +33,7 @@
   • ?<br/>
   
 <p align="center">
-  <h2 align="left"> 🚩 3/24 (4주차) </h2>
+  <h2 align="left"> ✔ 3/24 (4주차) </h2>
   <p align="left">
   • 발표<br/>
   
@@ -43,7 +43,7 @@
   • ?<br/>
   
 <p align="center">
-  <h2 align="left"> 🚩 4/7 (6주차) </h2>  
+  <h2 align="left"> ✔ 4/7 (6주차) </h2>  
   <p align="left">
   • 발표<br/>
   
@@ -58,7 +58,7 @@
   • ?<br/>
   
 <p align="center">
-  <h2 align="left"> 🚩 4/28 (9주차) </h2>  
+  <h2 align="left"> ✔ 4/28 (9주차) </h2>  
   <p align="left">
   • 발표<br/>
   
@@ -73,7 +73,7 @@
   • ?<br/>
   
 <p align="center">
-  <h2 align="left"> 🚩 5/19 (12주차) </h2>  
+  <h2 align="left"> ✔ 5/19 (12주차) </h2>  
   <p align="left">
   • 발표<br/>
   
@@ -88,7 +88,7 @@
   • ?<br/>
   
 <p align="center">
-  <h2 align="left"> 🚩 6/9 (15주차) </h2>  
+  <h2 align="left"> ✔ 6/9 (15주차) </h2>  
   <p align="left">
   • 발표<br/>
   
