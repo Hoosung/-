@@ -9,9 +9,9 @@ Profolio는 개발자를 위한, 쉽고 빠르게 제작 할 수 있는 정적 �
   <br/> 더 많은 템플릿은 <a href="https://github.com/congchu/portfolio-collection" >portfolio-collection</a> 저장소에서 보실 수 있습니다.
     <br/>
     <br/>
-  <img src="ㅇㅇ.png"/>
+  
     <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=563D7C"/>
-    <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=563D7C"/>
+    <img src="https://img.shields.io/badge/-CSS3-ff3399?style=flat&logo=CSS3&logoColor=563D7C"/>
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=563D7C"/>
   
   <br/>
