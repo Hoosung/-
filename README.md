@@ -74,7 +74,7 @@
 <p align="center">
   <h2 align="left"> ✔ 5/19 (12주차) </h2>  
   <p align="left">
-  • 반응형 웹 사이트 제작 - footer<br/>
+  • 반응형 웹 사이트 제작 - footer 섹션<br/>
   
 <p align="center">
   <h2 align="left"> 🚩 5/26 (13주차) </h2>  
