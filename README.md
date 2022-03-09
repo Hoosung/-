@@ -1,4 +1,4 @@
-Hoosung Portfolio
+Hoosung Portfolio /
 3/3(1주차) : 캡스톤디자인 오티 (A조)
 3/10(2주차) : 캡디 주제 및 계획 발표
 3/17(3주차) :
