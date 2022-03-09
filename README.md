@@ -13,10 +13,10 @@ Profolio는 개발자를 위한, 쉽고 빠르게 제작 할 수 있는 정적 �
 
   <br/>
   
-<p align="left">
+<p align="center">
   <h2 align="left"> 3/3 ✨</h2>
 
-  <p align="left">
+  <p align="center">
 
 
 
