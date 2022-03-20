@@ -90,9 +90,4 @@
   <h2 align="left"> ✔ 6/9 (15주차) </h2>  
   <p align="left">
   • 마지막 검토 및 최종 발표<br/>
-  
-<p align="center">
-  <h2 align="left"> 🚩 6/16 (16주차) </h2>  
-  <p align="left">
-  • 캡디 B조 작품 감상<br/>
 
