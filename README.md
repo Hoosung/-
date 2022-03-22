@@ -36,8 +36,8 @@
 <p align="center">
   <h2 align="left"> ✔ 3/24 (4주차) </h2>
   <p align="left">
-  • 반응형 웹 사이트 제작 - Header & Welcome 섹션
-  • 반응형 웹 사이트 제작 - ceo-access 섹션
+  • 반응형 웹 사이트 제작 - Header & Welcome 섹션<br>
+  • 반응형 웹 사이트 제작 - ceo-access 섹션<br>
   • 반응형 웹 사이트 제작 - banner 섹션<br/>
   
 <p align="center">
