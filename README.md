@@ -30,7 +30,7 @@
 <p align="center">
   <h2 align="left"> 🚩 3/17 (3주차) </h2>
   <p align="left">
-  • 가상머신(vmware), 운영체제(우분투), 가상환경(docker) 설치
+  • 가상머신(vmware), 운영체제(ubuntu), 가상환경(docker) 설치
   <br/>
   
 <p align="center">
