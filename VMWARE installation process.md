@@ -31,7 +31,7 @@
 <p align="center">
 <h2 align="left"> 2️⃣ VMWARE 설치과정 </h2>
 <img src="https://user-images.githubusercontent.com/101113265/159527549-a106d99e-6b48-4119-8df4-b714d9f89692.png" width="300" height="250">
-<h5 align="left"> 1) 다운받은 설치파일을 실행하면 위의 이미지에서 처럼 VMware Workstation Player 의 설치 프로그램이 실행됩니다. Next 를 눌러 다음으로 진행합니다. </h5>
+<h5 align="left"> 1) 다운받은 설치파일을 실행하면 위의 이미지에서처럼 VMware Workstation Player 의 설치 프로그램이 실행됩니다. Next 를 눌러 다음으로 진행합니다. </h5>
 <br/>
 
 <img src="https://user-images.githubusercontent.com/101113265/159528777-f7b1896a-ae05-414e-b13d-cc1828f48ca1.png" width="300" height="250">
@@ -52,7 +52,7 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/101113265/159530744-c595b6a5-478d-43fa-9434-0640f3ecb015.png" width="300" height="250">
-<h5 align="left"> 6) VMware Workstation Player 의 단축아이콘을 생성하는 것에 선택하시고 Next 를 클릭합니다. </h5>
+<h5 align="left"> 6) VMware Workstation Player 의 단축아이콘을 생성하는 것을 선택하시고 Next 를 클릭합니다. </h5>
 <br/>
 
 <img src="https://user-images.githubusercontent.com/101113265/159531008-0683d38d-20ad-479c-95ca-b2c83670266e.png" width="300" height="250">
@@ -74,5 +74,4 @@
 <img src="https://user-images.githubusercontent.com/101113265/159531945-0aca2f33-7aae-4b65-afa0-64f13978f4b7.png" width="300" height="250">
 <h5 align="left"> 11) VMware Workstation Player 가 실행된 모습입니다. 이제 컴퓨터에 리눅스, 우분투 등의 또 다른 운영체제를 설치하여 사용할 수 있는 환경이 되었습니다. </h5>
 <br/>
-
-
+<hr>
