@@ -1,38 +1,17 @@
-<hr>
-
-<p align="center">
-<h2 align="left"> 📢 가상머신이란? </h2>
-<h4> • 가상 머신은 실제 컴퓨터의 가상 표현 또는 에뮬레이션이다.<br/>
-  • 이를 종종 게스트라고 하며, 이를 실행하는 실제 시스템을 호스트라고 한다. </h4>
-<br/>
-
-<p align="center">
-<h2 align="left"> 📢 가상머신이 필요한 이유</h2>
-<h4> • 하나의 PC(서버)에서 두 개 이상의 운영체제를 사용할 수 있기 때문이다.<br/>
-  (PC에 가상머신을 설치하고 이 안에서 또 다른 운영체제를 사용)</h4>
-<br/>
-
-<p align="center">
-<h2 align="left"> 📢 가상머신의 장점 </h2>
-<h4> • 특정 CPU, 하드웨어에 종속되지 않아 하나의 코드로 여러 환경에서 구동이 가능하다.<br/>
-  • 실제 동작은 런타임에 의해 결정되기 때문에 안전하게 구동할 수 있다.</h4>
-<hr>
-<br/>
-
 <p align="center">
 <h2 align="left"> 1️⃣ 운영체제 설치 : UBUNTU </h2>
-<img src="https://user-images.githubusercontent.com/101113265/159432426-a295bea3-7cf2-4198-95e8-a2b0fa5f4cc6.jpg" width="300" height="250">
+<img src="https://user-images.githubusercontent.com/101113265/159534885-097896dc-3196-4eeb-8b2b-302725e5bcdb.png" width="300" height="250">
 
 <p align="center">
-<h5 align="left"> • 설치링크 → https://www.vmware.com/kr/products/workstation-player/workstation-player-evaluation.html </h5>
+<h5 align="left"> • 설치링크 → https://ubuntu.com/download/desktop </h5>
 
 <hr>
 <br/>
 
 <p align="center">
-<h2 align="left"> 2️⃣ VMWARE 설치과정 </h2>
-<img src="https://user-images.githubusercontent.com/101113265/159527549-a106d99e-6b48-4119-8df4-b714d9f89692.png" width="300" height="250">
-<h5 align="left"> 1) 다운받은 설치파일을 실행하면 위의 이미지에서처럼 VMware Workstation Player 의 설치 프로그램이 실행됩니다. Next 를 눌러 다음으로 진행합니다. </h5>
+<h2 align="left"> 2️⃣ UBUNTU 설치과정 </h2>
+<img src="https://user-images.githubusercontent.com/101113265/159535566-6a83031b-9671-42be-9dc5-23e098d3a777.png" width="300" height="250">
+<h5 align="left"> 1) 먼저 우분투 이미지가 필요합니다. 우분투 이미지 준비가 끝났으면 VMware를 실행하고 "Create a New Virtual Machine" 메뉴를 선택하여 새로운 가상 머신을 생성해보도록 합시다.  </h5>
 <br/>
 
 <img src="https://user-images.githubusercontent.com/101113265/159528777-f7b1896a-ae05-414e-b13d-cc1828f48ca1.png" width="300" height="250">
