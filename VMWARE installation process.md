@@ -1,6 +1,12 @@
 <p align="center">
+<h2 align="left">✏ 가상머신의 장점</h2>
+<h4>1. 프로그램 코드가 특정 CPU, 하드웨어에 종속되지 않게 되어 하나의 코드로 여러 환경에서 구동이 가능하다.<br/>
+2. 실제 동작은 런타임에 의해 결정되기 때문에 안전하게 구동할 수 있다.</h4>
+<br/>
+
+<p align="center">
 <h2 align="left"> 1. 가상머신 설치 : vmware </h2>
-<img src="https://user-images.githubusercontent.com/101113265/159432426-a295bea3-7cf2-4198-95e8-a2b0fa5f4cc6.jpg" width="400" height="300">
+<img src="https://user-images.githubusercontent.com/101113265/159432426-a295bea3-7cf2-4198-95e8-a2b0fa5f4cc6.jpg" width="300" height="200">
 
 <p align="center">
 <h5 align="left"> 설치링크 → https://www.vmware.com/kr/products/workstation-player/workstation-player-evaluation.html </h5>
