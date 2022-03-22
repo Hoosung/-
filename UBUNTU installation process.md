@@ -49,6 +49,7 @@
 <h5 align="left"> 6) 다음은 가상 머신이 내 PC에서 차지할 수 있는 용량과 저장 방식을 설정할 수 있는 화면입니다.<br/>
   그리고 가상 하드디스크의 파일을 분할 저장하는 옵션을 선택할 수 있는데, <br/>
   무엇을 선택하든 사용에는 크게 차이가 없습니다. <br/>
+   <br/>
 • Store virtual disk as a single file: VMDK 파일을 단일 파일로 생성<br/>
 • Split virtual disk into multiple files: VMDK 파일을 2GB로 분할하여 생성</h5>
 <br/>
@@ -77,8 +78,4 @@
 
 <img src="https://user-images.githubusercontent.com/101113265/159544848-dba9d381-f933-470d-b426-09e94b127e9d.JPG" width="300" height="250">
 <h5 align="left"> 11) 가상 머신 및 OS 설치가 모두 끝난 모습입니다.  </h5>
-<hr>
-
-
-
 <hr>
