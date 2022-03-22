@@ -24,16 +24,20 @@
 <p align="center">
   <h2 align="left"> ✔ 3/10 (2주차) </h2>
   <p align="left">
-  • 반응형 웹 사이트 제작 - Header & Welcome 섹션 <br/>
+  • 주제 검토
+  <br/>
   
 <p align="center">
   <h2 align="left"> 🚩 3/17 (3주차) </h2>
   <p align="left">
-  • 반응형 웹 사이트 제작 - ceo-access 섹션<br/>
+  • 가상머신, 우분투, 가상환경 설치
+  <br/>
   
 <p align="center">
   <h2 align="left"> ✔ 3/24 (4주차) </h2>
   <p align="left">
+  • 반응형 웹 사이트 제작 - Header & Welcome 섹션
+  • 반응형 웹 사이트 제작 - ceo-access 섹션
   • 반응형 웹 사이트 제작 - banner 섹션<br/>
   
 <p align="center">
