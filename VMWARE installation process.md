@@ -27,6 +27,7 @@
 <h5 align="left"> • 설치링크 → https://www.vmware.com/kr/products/workstation-player/workstation-player-evaluation.html </h5>
 
 <hr>
+<br/>
 
 <p align="center">
 <h2 align="left"> 2️⃣ VMWARE 설치과정 </h2>
@@ -73,5 +74,4 @@
 
 <img src="https://user-images.githubusercontent.com/101113265/159531945-0aca2f33-7aae-4b65-afa0-64f13978f4b7.png" width="300" height="250">
 <h5 align="left"> 11) VMware Workstation Player 가 실행된 모습입니다. 이제 컴퓨터에 리눅스, 우분투 등의 또 다른 운영체제를 설치하여 사용할 수 있는 환경이 되었습니다. </h5>
-<br/>
 <hr>
