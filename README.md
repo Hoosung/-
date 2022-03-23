@@ -29,7 +29,7 @@
 <p align="center">
   <h2 align="left"> 🚩 3/17 ~ (3주차) </h2>
   <p align="left">
-  • 가상머신(vmware), 운영체제(ubuntu) 설치, 소스코드 편집기(vscode) 설치 → 개발환경 구축<br/>
+  • 가상머신(vmware), 운영체제(ubuntu), 소스코드편집기(vscode) 설치 → 개발환경 구축<br/>
   
 <p align="center">
   <h2 align="left"> ✔ 3/24 ~ (4주차) </h2>
