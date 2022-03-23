@@ -1,7 +1,7 @@
 <hr>
 
 <p align="center">
-<h2 align="left"> 📢 VMWARE(가상머신)에 운영체제 설치 </h2>
+<h2 align="left"> 📢 VMWARE 가상머신에 운영체제 설치 </h2>
 <h4> • 먼저 우분투 이미지가 필요한데, 밑에 설치링크에서 다운하면 됩니다.<br/>
    </h4>
 <hr>
