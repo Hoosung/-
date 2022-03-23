@@ -65,8 +65,7 @@
 
 <img src="https://user-images.githubusercontent.com/101113265/159542234-6a5e0763-311f-4863-9406-e1f0d38c9a89.JPG" width="500" height="400">
 <img src="https://user-images.githubusercontent.com/101113265/159542280-bb7979a9-91d6-4357-8dee-778725b14d1f.JPG" width="500" height="400">
-<h4 align="left"> 9) 가상 머신을 생성할 때 첨부한 우분투 ISO 파일과 설정 정보를 바탕으로,<br/>
-  몇 단계의 화면을 거쳐 가상 머신에 우분투가 설치됩니다. </h4>
+<h4 align="left"> 9) 가상 머신을 생성할 때 첨부한 우분투 ISO 파일과 설정 정보를 바탕으로, 몇 단계의 화면을 거쳐 가상 머신에 우분투가 설치됩니다. </h4>
 <br/>
 
 <img src="https://user-images.githubusercontent.com/101113265/159544808-6dae02bc-8ec5-4169-860b-1cb5139370e5.JPG" width="500" height="400">
