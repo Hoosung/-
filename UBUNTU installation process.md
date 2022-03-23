@@ -57,7 +57,7 @@
   빨간색으로 표시한 박스 버튼을 클릭하면 가상 머신의 메모리, CPU 등을 세부적으로 설정할 수 있습니다. </h4>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/101113265/159542032-cd4f3fea-c6a2-4a9b-9d27-8be3676fea4b.png" width="500" height=400">
+<img src="https://user-images.githubusercontent.com/101113265/159542032-cd4f3fea-c6a2-4a9b-9d27-8be3676fea4b.png" width="500" height="400">
 <h4 align="left"> 8) 위 설정 현황 화면에서 Finish를 클릭하면 위와 같이 가상 머신이 추가된 것을 볼 수 있습니다. <br/>
   위의 과정은 OS가 설치되지 않은 본체를 마련한 것이고, 이제 OS를 설치할 차례입니다.<br/>
   "Play virtual machine" 버튼을 클릭하여 가상 머신을 실행합니다. </h4>
