@@ -46,7 +46,7 @@
 Y를 입력하여 설치를 진행합니다.</h4>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/101113265/159529661-df3f8c42-4c9e-4912-a29c-6197f3f936e0.png" width="300" height="250">
+<img src="https://user-images.githubusercontent.com/101113265/159743912-dbf7f4ba-899d-44d4-87ca-3f56d7af6c75.JPG" width="500" height="400">
 <h4 align="left"> 4) 위에 사진처럼 설치가 자동으로 진행이 됩니다. </h4>
 <br/>
 
