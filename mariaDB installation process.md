@@ -48,15 +48,16 @@
 <img src="https://user-images.githubusercontent.com/101113265/162028968-1894637f-c2b6-4f5a-92fd-c9c1160d8672.JPG" width="500" height="400">
 <h4 align="left"> 4) MariaDB secure 설정 <br>
   : $ sudo mysql_secure_installation <br>
-  → Secure 설정은 Unix socket authentification 활성화, root password 설정, anonymous users 활성화 여부, 원격으로 root login 여부, test DB 삭제 여부를 입력할 수 있다.<br>
+  → Secure 설정은 Unix socket authentification 활성화, root password 설정, anonymous users 활성화 여부,<br>
+  원격으로 root login 여부, test DB 삭제 여부를 입력할 수 있다.<br>
   대부분은 기본 값으로 설정해도 무방하니 Default 값으로 설정하고, 추후 SQL 명령어나 환경 파일을 통해서 변경 가능하다. 
 </h4>
+<hr>
 <br/>
-
 
 <p align="center">
 <h2 align="left">  2️⃣ mariaDB 기본동작 확인 </h2>
-<https://user-images.githubusercontent.com/101113265/162030043-2c0cf474-c110-4530-91d2-78823cb5b6e9.JPG" width="500" height="400">
+<img src="https://user-images.githubusercontent.com/101113265/162030043-2c0cf474-c110-4530-91d2-78823cb5b6e9.JPG" width="500" height="400">
 <h4 align="left"> 기본동작 확인 <br>
   : 위 명령어들을 순서대로 입력하여 기본동작의 이상유무를 확인해준다. </h4>
   
