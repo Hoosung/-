@@ -38,7 +38,7 @@
 </h4>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/101113265/162028347-b81f8d9d-4323-4df0-87bc-ba471e2160f7.JPG" width="500" height="400">
+<img src="https://user-images.githubusercontent.com/101113265/162028347-b81f8d9d-4323-4df0-87bc-ba471e2160f7.JPG" width="500" height="300">
 <h4 align="left"> 3) MariaDB client 설치 <br>
   : $ sudo apt install mariadb-client <br>
   → 위 명령어를 입력하여 설치를 해준다.
