@@ -42,3 +42,70 @@ body {
     background-color: #fff;
     color: #222;
 }
+
+/* ################ Header ################ */
+header {
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+}
+.header-inner {
+    border: 1px solid #000;
+    width: 1300px;
+    margin: auto;
+    overflow: hidden;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.logo /*로고*/ {
+    float: left;
+}
+.logo img {
+    margin-top: -7px;
+}
+.gnb /*각 섹션들*/ {
+    float: right;
+}
+.gnb a {
+    margin: 10px;
+    font-size: 16px;
+}
+
+/* ################ section : welcome ################ */
+.welcome {
+    border: 5px solid #000;
+    height: 90vh;
+    position: relative;
+}
+.slideshow {}
+.welcome-heading {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 200px;
+}
+.welcome-heading span {}
+.welcome-heading h1 {}
+.welcome-heading em {}
+.welcome-heading p {} 
+.welcome-btns {}
+.welcome-btns .btn {}
+.btn.start {}
+.btn.guide {}
+/* ################ section : banner ################ */
+
+/* ################ section : feature ################ */
+
+/* ################ section : vision ################ */
+
+/* ################ section : faq ################ */
+
+/* ################ section : review ################ */
+
+/* ################ section : focus ################ */
+
+/* ################ section : guide ################ */
+
+/* ################ section : news ################ */
+
+/* ################ Footer ################ */
