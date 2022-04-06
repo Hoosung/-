@@ -41,17 +41,20 @@
 <p align="center">
   <h2 align="left"> 🚩 3/31 ~ (5주차) </h2>  
   <p align="left">
-  • 반응형 웹 사이트 제작 - banner 섹션<br/>
-  • 반응형 웹 사이트 제작 - feature 섹션<br/>
+  • 웹 서버(apache2), DMBS(maria DB) 설치 → 웹 서버 구축<br/>
+  
   
 <p align="center">
   <h2 align="left"> ✔ 4/7 ~ (6주차) </h2>  
   <p align="left">
-  • 반응형 웹 사이트 제작 - vision 섹션<br/>
+  • 반응형 웹 사이트 제작 - banner 섹션<br/>
+  • 반응형 웹 사이트 제작 - feature 섹션<br/>
+  
   
 <p align="center">
   <h2 align="left"> 🚩 4/14 ~ (7주차) </h2>  
   <p align="left">
+  • 반응형 웹 사이트 제작 - vision 섹션<br/>
   • 반응형 웹 사이트 제작 - faq 섹션<br/>
   
 <p align="center">
@@ -63,6 +66,7 @@
   <h2 align="left"> ✔ 4/28 ~ (9주차) </h2>  
   <p align="left">
   • 반응형 웹 사이트 제작 - focus 섹션<br/>
+  • DB 연동하기<br/>
   
 <p align="center">
   <h2 align="left"> 🚩 5/5 ~ (10주차 / 공휴일) </h2>  
