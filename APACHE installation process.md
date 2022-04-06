@@ -52,7 +52,7 @@
 
 <img src="https://user-images.githubusercontent.com/101113265/162022462-cfef74af-b8f7-41d4-bcbc-420e9ed3bd15.JPG" width="500" height="400">
 <h4 align="left"> 6) 외부 웹 서버에서도 화면 확인 <br/>
-  : ① index.html에서 title 앞에 KimHoosung을 입력하고 저장한다. ($ sudo gedit index.html 입력) <br>
+  : ① index.html에서 title 앞에 KimHoosung을 입력하고 저장한다. ($ls 입력 이후 $ sudo gedit index.html 입력) <br>
 ② 터미널에서 ifconfig를 통해 ip(192.168.111.128) 알아낸다. ($ ifconfig 입력) <br>
 ③ window 운영체제 cmd에서 핑테스트를 해보고 이상없음을 확인한다. <br>
 ④ window에서 인터넷에 들어가서 ip(192.168.111.128) 입력해서 title 앞에 kimHoosung 뜨는 거를 확인한다.<br>
