@@ -1,88 +1,52 @@
 <hr>
 <p align="center">
-<h2 align="left"> 📢 VSCODE (Visual Studio Code)의 장점 </h2>
-<h4> • 비주얼 스튜디오 코드는 에디터로써 윈도우, MacOS, 리눅스 환경에서 모두 사용 가능하다.<br/>
-  • 무료(기업에서도 무료로 사용가능)로 이용할 수 있는 소스 코드 편집기이다.<br/>
-  • 다양한 프로그래밍언어를 지원하며 디버깅 지원과 Git 제어, 구문 강조 기능을 제공해준다.</h4>
+<h2 align="left"> 📢 APACHE의 장점 </h2>
+<h4> • 클라이언트 요청을 처리하기 위해 멀티스레드 방식을 따른다.<br/>
+  • 웹 서버 자체 내에서 동적 컨텐츠를 처리한다. <br/>
+  • 모듈을 동적으로 로드 및 언로드한다.</h4>
 <hr>
 <br/>
 
 <p align="center">
-<h2 align="left"> 1️⃣ 우분투 운영체제에서 VSCODE 설치 </h2>
-<img src="https://user-images.githubusercontent.com/101113265/159733579-d9a4f61d-296f-4c3c-a5b2-f540426b5136.png" width="400" height="350">
-
-<p align="center">
-<h4 align="left"> • 설치링크 → https://code.visualstudio.com/ </h4>
+<h2 align="left"> 1️⃣ 우분투 운영체제에서 APACHE 웹 서버 설치 </h2>
+<img src="https://user-images.githubusercontent.com/101113265/162013127-f0774761-a332-4f83-8186-2094c9937f6d.JPG" width="400" height="350">
 
 <hr>
 <br/>
 
 <p align="center">
-<h2 align="left"> 2️⃣ VSCODE 설치과정 </h2>
-<img src="https://user-images.githubusercontent.com/101113265/159734252-9fefd136-b168-4e32-a5e8-575526df4032.JPG" width="500" height="400">
-<h4 align="left"> • .deb버전으로 설치한다. (우분투용). </h4>
-<hr>
+<h2 align="left"> 2️⃣ APACHE 설치과정 </h2>
+<img src="https://user-images.githubusercontent.com/101113265/162014087-f0f30bc7-71e9-4d07-b50e-3a5eb8600008.JPG" width="500" height="400">
+<h4 align="left"> 1) 터미널을 이용해 apt 업데이트<br>
+  : 우선 아파치 설치전 최신버전으로 다운 받기 위해 apt를 업데이트 해줍니다.<br>
+  ($ sudo apt-get update 입력) </h4>
 <br/>
 
-<p align="center">
-<h2 align="left"> 3️⃣ VSCODE 설치 중 오류발생 </h2>
-<img src="https://user-images.githubusercontent.com/101113265/159734563-27676057-b26f-4df8-be5f-601ad6b4a0db.JPG" width="500" height="400">
-<h5 align="left"> • 다운받은 .deb버전을 열었는데, 지원하지 않는다고 파일설치에 실패했다는 글이 뜹니다. </h5>
-<hr>
+<img src="https://user-images.githubusercontent.com/101113265/162014489-e10062fd-47a2-4ec9-9770-e588c9c4fd7a.JPG" width="500" height="400">
+<h4 align="left"> 2) apache2 설치 <br>
+  : 우리가 사용하고 있는 OS는 우분투이기 때문에 apache가 아닌 apache2를 설치합니다.<br>
+  ($ sudo apt-get install apache2 입력) </h4>
 <br/>
 
-<p align="center">
-<h2 align="left"> 4️⃣ VSCODE 설치오류 해결방법 </h2>
-<img src="https://user-images.githubusercontent.com/101113265/159736286-fc44f3e0-ef06-44e8-8c41-b4de1d7d6bf6.JPG" width="500" height="400">
-<h4 align="left"> 1) 터미널을 실행시켜줍니다. (터미널 단축키 : Ctrl + Alt + T) </h4>
+<img src="https://user-images.githubusercontent.com/101113265/162015506-0e265ba0-6b6f-4ae9-9460-70429ed3997c.JPG" width="500" height="400">
+<h4 align="left"> 3) apache2 설치 확인<br>
+  : apache2 설치를 확인해줍니다. <br>
+  ($ apache2 -v을 입력) </h4>
 <br/>
 
-<h4 align="left"> 2) 명령어로 컴파일을 설치해줍니다. <br/>
-→ sudo apt-get install build-essential 입력 </h4>
+<img src="https://user-images.githubusercontent.com/101113265/162015742-acb9d19c-40d6-4f99-9bde-81f91ea6f89a.JPG" width="500" height="400">
+<h4 align="left"> 4) apache2 구동 확인<br>
+  : 80포트가 LISTEN중임을 확인할 수 있습니다.<br>
+  ($ netstat -ntlp 입력)<br><br> 
+
+-- 혹시 아파치가 구동중이지 않다면 밑에 명령어를 이용해줍니다.<br>
+시작 : $ sudo service apache2 restart <br>
+재시작 : $ sudo service apache2 restart <br>
+종료 : $ sudo service apache2 stop</h4>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/101113265/159736916-c35671ef-d46f-4d59-9e5a-81b513b70b85.JPG" width="500" height="400">
-<h4 align="left"> 3) 위와 같이 설치할 패키지 명이 보여지고 설치 진행여부를 묻는데, <br/>
-Y를 입력하여 설치를 진행합니다.</h4>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/101113265/159743912-dbf7f4ba-899d-44d4-87ca-3f56d7af6c75.JPG" width="500" height="400">
-<h4 align="left"> 4) 위에 사진처럼 설치가 자동으로 진행이 됩니다. </h4>
-<br/>
-
-<h4 align="left"> 5) 이후 커멘드커서가 뜨면 gcc가 정상적으로 설치가 되었는지 확인해줍니다. <br/>
-→ gcc --help 입력 </h4>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/101113265/159740326-ecd71fe2-3677-48d3-87b2-def8258b13fb.JPG" width="500" height="400">
-<h4 align="left"> 6) 위에 사진처럼 gcc 옵션에 대한 설명이 뜨면 컴파일러가 정상적으로 설치됐습니다. </h4>
-<br/>
-
-<h4 align="left"> 7) 이제 VSCODE를 설치해줄건데, 먼저 MS의 GPS를 다운받기 위해 curl 패키지를 설치합니다.<br/>
-→ sudo apt-get install curl 입력 </h4>
-<br/>
-
-<h4 align="left"> 8) 이후 마이크로소프트사의 GPG키를 내려받아 /etc/apt/trusted.gpg.d/ 경로에 복사합니다. <br/>
-→ sudo sh -c 'curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > /etc/apt/trusted.gpg.d/microsoft.gpg' 입력 </h4>
-<br/>
-
-<h4 align="left"> 9) VScode를 다운로드 받기 위한 저장소를 /etc/apt/sources.list.d/경로에 추가합니다. <br/>
-  → sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"> /etc/apt/sources.list.d/vscode.list' 입력 </h4>
-<br/>
-
-<h4 align="left"> 10) 이제 저장소 정보가 추가되었으니 패키지 목록을 업데이트합니다. <br/>
-  → sudo apt-get update 입력 </h4>
-<br/>
-
-<h4 align="left"> 11) --apt-get-install을 통해서 VScode를 설치합니다. <br/>
-→ sudo apt-get install code </h4>
-<br/>
-
-<h4 align="left"> 12) 설치가 완료되면 추가하였던 저장소를 삭제합니다. <br/>
-→ sudo rm /etc/apt/sources.list.d/vscode.list </h4>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/101113265/159743432-cc0f0dce-76ed-4b2c-b620-2a6ab2e78da5.JPG" width="500" height="400">
-<h4 align="left"> 13) 정상적으로 설치가 완료되면 위에 사진처럼 VScode 아이콘이 생성됩니다. </h4>
+<img src="https://user-images.githubusercontent.com/101113265/162017033-be8da54f-e715-460d-b192-e63b7851ea92.JPG" width="500" height="400">
+<h4 align="left"> 5) 웹 화면 확인 <br/>
+  : 우분투 내에 firefox 웹 브라우저에 'localhost'를 타이핑하면 확인 가능합니다.</h4>
 <br/>
 <hr>
