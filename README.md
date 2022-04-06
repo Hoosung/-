@@ -18,38 +18,36 @@
 <p align="center">
   <h2 align="left"> 🚩 3/3 ~ (1주차) </h2>
   <p align="left">
-  • 캡스톤디자인1 오리엔테이션<br/>
-  • 주제 선정 및 주차별 계획 수립<br/> 
+  ✅ • 캡스톤디자인1 오리엔테이션<br/> 
+  ✅ • 주제 선정 및 주차별 계획 수립<br/> 
   
 <p align="center">
   <h2 align="left"> ✔ 3/10 ~ (2주차) </h2>
   <p align="left">
-  • 주제 검토 및 주차별 계획 수정<br/>
+  ✅ • 주제 검토 및 주차별 계획 수정<br/>
   
 <p align="center">
   <h2 align="left"> 🚩 3/17 ~ (3주차) </h2>
   <p align="left">
-  • 가상머신(vmware), 운영체제(ubuntu), 소스코드편집기(vscode) 설치 → 개발환경 구축<br/>
-  • 폴더구조, CSS 기본서식 만들기<br/>
+  ✅ • 가상머신(vmware), 운영체제(ubuntu), 소스코드편집기(vscode) 설치 → 개발환경 구축<br/>
+  ✅ • 폴더구조, CSS 기본서식 만들기<br/>
   
 <p align="center">
   <h2 align="left"> ✔ 3/24 ~ (4주차) </h2>
   <p align="left">
-  • 반응형 웹 사이트 제작 - Header & Welcome 섹션<br/>
-  • 반응형 웹 사이트 제작 - ceo-access 섹션<br/>
+  ✅ • 반응형 웹 사이트 제작 - Header & Welcome 섹션<br/>
+  ✅ • 반응형 웹 사이트 제작 - ceo-access 섹션<br/>
   
 <p align="center">
   <h2 align="left"> 🚩 3/31 ~ (5주차) </h2>  
   <p align="left">
-  • 웹 서버(apache2), DMBS(maria DB) 설치 → 웹 서버 구축<br/>
-  
+  ✅ • 웹 서버(apache2), DMBS(maria DB) 설치 → 웹 서버 구축<br/>
   
 <p align="center">
   <h2 align="left"> ✔ 4/7 ~ (6주차) </h2>  
   <p align="left">
   • 반응형 웹 사이트 제작 - banner 섹션<br/>
   • 반응형 웹 사이트 제작 - feature 섹션<br/>
-  
   
 <p align="center">
   <h2 align="left"> 🚩 4/14 ~ (7주차) </h2>  
