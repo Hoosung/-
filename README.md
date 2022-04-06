@@ -22,7 +22,7 @@
   ✅ • 주제 선정 및 주차별 계획 수립<br/> 
   
 <p align="center">
-  <h2 align="left"> ✔ 3/10 ~ (2주차) </h2>
+  <h2 align="left"> 📢 3/10 ~ (2주차) </h2>
   <p align="left">
   ✅ • 주제 검토 및 주차별 계획 수정<br/>
   
@@ -33,7 +33,7 @@
   ✅ • 폴더구조, CSS 기본서식 만들기<br/>
   
 <p align="center">
-  <h2 align="left"> ✔ 3/24 ~ (4주차) </h2>
+  <h2 align="left"> 📢 3/24 ~ (4주차) </h2>
   <p align="left">
   ✅ • 반응형 웹 사이트 제작 - Header & Welcome 섹션<br/>
   ✅ • 반응형 웹 사이트 제작 - ceo-access 섹션<br/>
@@ -44,7 +44,7 @@
   ✅ • 웹 서버(apache2), DMBS(maria DB) 설치 → 웹 서버 구축<br/>
   
 <p align="center">
-  <h2 align="left"> ✔ 4/7 ~ (6주차) </h2>  
+  <h2 align="left"> 📢 4/7 ~ (6주차) </h2>  
   <p align="left">
   • 반응형 웹 사이트 제작 - banner 섹션<br/>
   • 반응형 웹 사이트 제작 - feature 섹션<br/>
@@ -61,7 +61,7 @@
   • 반응형 웹 사이트 제작 - review 섹션<br/>
   
 <p align="center">
-  <h2 align="left"> ✔ 4/28 ~ (9주차) </h2>  
+  <h2 align="left"> 📢 4/28 ~ (9주차) </h2>  
   <p align="left">
   • 반응형 웹 사이트 제작 - focus 섹션<br/>
   • DB 연동하기<br/>
@@ -77,7 +77,7 @@
   • 반응형 웹 사이트 제작 - news 섹션<br/>
   
 <p align="center">
-  <h2 align="left"> ✔ 5/19 ~ (12주차) </h2>  
+  <h2 align="left"> 📢 5/19 ~ (12주차) </h2>  
   <p align="left">
   • 반응형 웹 사이트 제작 - footer 섹션<br/>
   
@@ -92,7 +92,7 @@
   • 반응형 웹 사이트 제작 - 모바일 레이아웃 제작<br/>
   
 <p align="center">
-  <h2 align="left"> ✔ 6/9 (15주차) </h2>  
+  <h2 align="left"> 📢 6/9 (15주차) </h2>  
   <p align="left">
   • 마지막 검토 및 최종 발표<br/>
 
