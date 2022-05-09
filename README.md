@@ -40,49 +40,50 @@
 <p align="center">
   <h2 align="left"> 🚩 3/31 ~ (5주차) </h2>  
   <p align="left">
-  ❌ • 반응형 웹 사이트 제작 - ceo-access 섹션<br/>
+  ✅ • 반응형 웹 사이트 제작 - ceo-access 섹션<br/>
   ✅ • 웹 서버(apache2), DMBS(maria DB) 설치 → 웹 서버 구축<br/>
   
 <p align="center">
   <h2 align="left"> 📢 4/7 ~ (6주차) </h2>  
   <p align="left">
-  • 반응형 웹 사이트 제작 - banner 섹션<br/>
-  • 반응형 웹 사이트 제작 - feature 섹션<br/>
+  ✅ • 반응형 웹 사이트 제작 - banner 섹션<br/>
+  
   
 <p align="center">
   <h2 align="left"> 🚩 4/14 ~ (7주차) </h2>  
   <p align="left">
-  • 반응형 웹 사이트 제작 - vision 섹션<br/>
-  • 반응형 웹 사이트 제작 - faq 섹션<br/>
+  ✅ • 반응형 웹 사이트 제작 - vision 섹션<br/>
+  
   
 <p align="center">
-  <h2 align="left"> 🚩 4/21 ~ (8주차) </h2>  
+  <h2 align="left"> ✏ 4/21 ~ (8주차 / 중간고사) </h2>  
   <p align="left">
-  • 반응형 웹 사이트 제작 - review 섹션<br/>
+  ✅ • 반응형 웹 사이트 제작 - review 섹션<br/>
   
 <p align="center">
-  <h2 align="left"> 📢 4/28 ~ (9주차) </h2>  
+  <h2 align="left"> 📌 4/28 ~ (9주차 / 휴강) </h2>  
   <p align="left">
-  • 반응형 웹 사이트 제작 - focus 섹션<br/>
+  ✅ • 반응형 웹 사이트 제작 - focus 섹션<br/>
+  
+<p align="center">
+  <h2 align="left"> 📌 5/5 ~ (10주차 / 공휴일) </h2>  
+  <p align="left">
+  ✅ • 반응형 웹 사이트 제작 - guide 섹션<br/>
   • DB 연동하기<br/>
   
 <p align="center">
-  <h2 align="left"> 🚩 5/5 ~ (10주차 / 공휴일) </h2>  
-  <p align="left">
-  • 반응형 웹 사이트 제작 - guide 섹션<br/>
-  
-<p align="center">
-  <h2 align="left"> 🚩 5/12 ~ (11주차) </h2>  
+  <h2 align="left"> 📢 5/12 ~ (11주차) </h2>  
   <p align="left">
   • 반응형 웹 사이트 제작 - news 섹션<br/>
+  • DB 연동하기<br/>
   
 <p align="center">
-  <h2 align="left"> 📢 5/19 ~ (12주차) </h2>  
+  <h2 align="left"> 🚩 5/19 ~ (12주차) </h2>  
   <p align="left">
   • 반응형 웹 사이트 제작 - footer 섹션<br/>
   
 <p align="center">
-  <h2 align="left"> 🚩 5/26 ~ (13주차) </h2>  
+  <h2 align="left"> 📢 5/26 ~ (13주차) </h2>  
   <p align="left">
   • 반응형 웹 사이트 제작 - PC버전 마무리 작업<br/>
   
