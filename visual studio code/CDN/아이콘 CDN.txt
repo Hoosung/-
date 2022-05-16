@@ -1,7 +1,0 @@
-<style>에서 아이콘 사용할 때
-
-/* XEICON CDN */
-@import url('http://cdn.jsdelivr.net/npm/xeicon@2.3.3/xeicon.min.css');
-
-/* Fontawesome 4.7 */
-@import url('http://path/to/font-awesome/css/font-awesome.min.css');
