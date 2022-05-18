@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>pfupload</title>
+</head>
+
+<body>
+
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.8.1/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.8.1/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+      apiKey: "AIzaSyDOmIX7LT-feniKTorbEJ7ELaUPmp9-_aA",
+      authDomain: "pomogong.firebaseapp.com",
+      projectId: "pomogong",
+      storageBucket: "pomogong.appspot.com",
+      messagingSenderId: "1085282584660",
+      appId: "1:1085282584660:web:78b03c0128ff0ee49905c1",
+      measurementId: "G-RLLV6M6K5Q"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+  </script>
+
+  <!-- Section : pfupload -->
+
+  <style type="text/css">
+    body {
+      line-height: 2em;
+      font-family: "맑은 고딕";
+    }
+
+    ul,
+    li {
+      list-style: none;
+      text-align: center;
+      padding: 0;
+      margin: 0;
+    }
+
+    #mainWrapper {
+      width: 800px;
+      margin: 0 auto;
+      /*가운데 정렬*/
+    }
+
+    #mainWrapper>ul>li:first-child {
+      text-align: center;
+      font-size: 14pt;
+      height: 40px;
+      vertical-align: middle;
+      line-height: 30px;
+    }
+
+    #ulTable {
+      margin-top: 10px;
+    }
+
+
+    #ulTable>li:first-child>ul>li {
+      background-color: #c9c9c9;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    #ulTable>li>ul {
+      clear: both;
+      padding: 0px auto;
+      position: relative;
+      min-width: 40px;
+    }
+
+    #ulTable>li>ul>li {
+      float: left;
+      font-size: 10pt;
+      border-bottom: 1px solid silver;
+      vertical-align: baseline;
+    }
+
+    #ulTable>li>ul>li:first-child {
+      width: 10%;
+    }
+
+    /*No 열 크기*/
+    #ulTable>li>ul>li:first-child+li {
+      width: 45%;
+    }
+
+    /*제목 열 크기*/
+    #ulTable>li>ul>li:first-child+li+li {
+      width: 20%;
+    }
+
+    /*작성일 열 크기*/
+    #ulTable>li>ul>li:first-child+li+li+li {
+      width: 15%;
+    }
+
+    /*작성자 열 크기*/
+    #ulTable>li>ul>li:first-child+li+li+li+li {
+      width: 10%;
+    }
+
+    /*조회수 열 크기*/
+
+    #divPaging {
+      clear: both;
+      margin: 0 auto;
+      width: 220px;
+      height: 50px;
+    }
+
+    #divPaging>div {
+      float: left;
+      width: 30px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    #liSearchOption {
+      clear: both;
+    }
+
+    #liSearchOption>div {
+      margin: 0 auto;
+      margin-top: 30px;
+      width: auto;
+      height: 100px;
+
+    }
+
+    .left {
+      text-align: left;
+    }
+  </style>
+
+  </head>
+
+  <body>
+    <div id="mainWrapper">
+      <br><br><br>
+      <ul>
+        <!-- 게시판 제목 -->
+        <li>포모공(POMOGONG) 게시판</li>
+        <br>
+        
+        <!-- 게시판 목록  -->
+
+        <ul id="ulTable">
+          <li>
+            <ul>
+              <li>No.</li>
+              <li>제목</li>
+              <li>작성일</li>
+              <li>작성자</li>
+              <li>조회수</li>
+            </ul>
+          </li>
+          <!-- 게시물이 출력될 영역 -->
+          <li>
+            <ul>
+              <li>1</li>
+              <li class="left">내 포폴 → https://github.com/Hoosung/Capstone-design1 </li>
+              <li>2022.05.19</li>
+              <li>김후성</li>
+              <li>50</li>
+            </ul>
+          </li>
+
+          <li>
+            <ul>
+              <li>2</li>
+              <li class="left">내 웹사이트 주소 : pomogong.web.app 평가 좀</li>
+              <li>2022.05.18</li>
+              <li>무야호</li>
+              <li>76</li>
+            </ul>
+          </li>
+
+          <li>
+            <ul>
+              <li>3</li>
+              <li class="left">제목제목제목제목</li>
+              <li>2022.04.09</li>
+              <li>손흥민</li>
+              <li>20</li>
+            </ul>
+          </li>
+
+          <li>
+            <ul>
+              <li>4</li>
+              <li class="left">제목제목제목제목1</li>
+              <li>2022.03.09</li>
+              <li>김자바</li>
+              <li>40</li>
+            </ul>
+          <li>
+        </ul>
+        
+
+        <!-- 게시판 페이징 영역 -->
+        <li>
+          <div id="divPaging">
+            <div>◀</div>
+            <div><b>1</b></div>
+            <div>2</div>
+            <div>3</div>
+            <div>4</div>
+            <div>5</div>
+            <div>▶</div>
+          </div>
+        </li>
+
+        <!-- 검색 폼 영역 -->
+        <li id='liSearchOption'>
+          <div>
+            <select id='selSearchOption'>
+              <option value='A'>제목+내용</option>
+              <option value='T'>제목</option>
+              <option value='C'>내용</option>
+            </select>
+            <input id='txtKeyWord' />
+            <input type='button' value='검색' />
+            <br><br>
+            <button class="submit">글쓰기</button>
+            <button class="submit" onclick="location.href='index.html'">HOME</button>
+          </div>
+        </li>
+      </ul>
+
+    </div>
+  </body>
+
+</html>
