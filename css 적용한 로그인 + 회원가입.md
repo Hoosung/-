@@ -5,13 +5,13 @@
 
 
 <h4 align="left"> 1) 회원가입 화면 </h4>
-<img src="[https://user-images.githubusercontent.com/101113265/169137196-dbee692b-9e6a-4bb5-9e16-910918cde464.JPG](https://user-images.githubusercontent.com/101113265/170319829-00ba6059-f47c-4f46-ad67-e470e86df653.JPG)" width="500" height="400">
+<img src="[https://user-images.githubusercontent.com/101113265/169137196-dbee692b-9e6a-4bb5-9e16-910918cde464.JPG]" width="500" height="400">
 - 웹 사이트에서 회원가입 창에 들어옵니다.
 <br><br><br/>
 
 
 <h4 align="left"> 2) 회원가입 성공 화면 </h4>
-<img src="[https://user-images.githubusercontent.com/101113265/169137370-0cabed22-2627-451e-9379-d24f778b1890.JPG](https://user-images.githubusercontent.com/101113265/170320174-961301c4-8c7d-438a-b66b-0bdc28707f80.JPG)" width="500" height="400">
+<img src="[https://user-images.githubusercontent.com/101113265/169137370-0cabed22-2627-451e-9379-d24f778b1890.JPG]" width="500" height="400">
 - 회원가입을 한 아이디 : aaa222@naver.com, password : aaa222 입력 후 회원가입 성공화면입니다.
 <br><br><br/>
 
