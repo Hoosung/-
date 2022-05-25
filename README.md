@@ -9,7 +9,6 @@
   
   • 포모공 : https://pomogong.web.app/
   
-  https://hoo2.netlify.app/#none
   
   <p align="center">
     <br/>
@@ -84,11 +83,13 @@
   <p align="left">
   ✅ • 반응형 웹 사이트 제작 - 로그인 섹션<br/>
   ✅ • 반응형 웹 사이트 제작 - 회원가입 섹션<br/>
-  • 반응형 웹 사이트 제작 - 로그인/회원가입 섹션 꾸미기 <br/>
+  ✅ • 반응형 웹 사이트 제작 - 로그인/회원가입 섹션 꾸미기 <br/>
   
 <p align="center">
   <h2 align="left"> 📢 5/26 ~ (13주차) </h2>  
   <p align="left">
+  ✅ • 반응형 웹 사이트 제작 - 로그인 세션 변경<br/>
+  ✅ • 반응형 웹 사이트 제작 - 로그아웃 섹션<br/>
   • 반응형 웹 사이트 제작 - 포트폴리오 공유 게시판 섹션<br/>
   • 반응형 웹 사이트 제작 - PC버전 마무리 작업<br/>
   
@@ -98,6 +99,11 @@
   • 반응형 웹 사이트 제작 - 모바일 레이아웃 제작<br/>
   
 <p align="center">
-  <h2 align="left"> 📢 6/9 (15주차) </h2>  
+  <h2 align="left"> 🚩 6/9 ~ (15주차) </h2>  
   <p align="left">
-  • 마지막 검토 및 최종 발표<br/>
+  • 마지막 검토<br/>
+  
+ <p align="center">
+  <h2 align="left"> 📢 6/16 (16주차) </h2>  
+  <p align="left">
+  • 캡디 프로젝트 최종 발표<br/> 
