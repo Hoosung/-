@@ -4,15 +4,16 @@
 <h2 align="left"> 📢 Firebase </h2>
 <img src="https://user-images.githubusercontent.com/101113265/173866456-a51b6702-735a-4f4b-aa85-660c775d759e.JPG" width="400" height="350">
 <hr>
-
+<hr>
 <p align="center">
 <h2 align="left"> 📢 Node js </h2>
 <img src="https://user-images.githubusercontent.com/101113265/173866851-18fe1a76-101c-49d5-82c5-deb0dd263ae9.JPG" width="400" height="350">
 <hr>
-
-<h2> -> firebase와 Node js를 연동하여 웹 호스팅을 하였습니다.<br/></h2><hr>
+<hr>
+<h2> -> firebase와 Node js를 연동하여 웹 호스팅을 이용해 웹 사이트를 구축하였습니다. </h2>
+<hr>
 <br>
-
+<hr>
 <p align="center">
 <h2 align="left"> 1️⃣ 파이어베이스란?</h2>
 
