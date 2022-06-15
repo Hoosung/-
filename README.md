@@ -2,13 +2,14 @@
   <h1 align="center"> Hoosung's Portfolio ✨</h1>
 
   <p align="left">
-  • 안녕하세요 경상국립대학교 컴퓨터과학부 컴퓨터소프트웨어전공 18학번 김후성입니다. <br/>
-  • '포트폴리오에 대한 모든 것을 공유'하는 이름하여 '포모공' 반응형 웹사이트 제작 프로젝트입니다. <br/> 
-  • 반응형 웹이란? 다양한 기기나 브라우저의 크기에 맞게 구성이나 크기를 변경해가며 반응하는 웹 문서 <br/>
-  • <a href="https://congchu.github.io/web-porfolio/">DEMO</a> 웹 사이트, 인프런 영상 참고 예정 <br/>
+  • 안녕하세요 경상국립대학교 컴퓨터공학부 18학번 김후성입니다. <br/>
+  • '포트폴리오에 대한 모든 것을 공유'라는 이름을 줄인 '포모공' 반응형 웹사이트 제작 프로젝트입니다. <br> 
+  • 반응형 웹이란? 다양한 기기나 브라우저의 크기에 맞게 구성이나 크기를 변경해가며 반응하는 웹 문서 <br>
+  • <a href="https://congchu.github.io/web-porfolio/">DEMO</a> 웹 사이트, 인프런 영상 참고 예정 <br>
   
-  • 포모공 : https://pomogong.web.app/
+  😃 포모공 웹 사이트 : https://pomogong.web.app/
   
+  <br>
   
   <p align="center">
     <br/>
@@ -16,7 +17,7 @@
     <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=3D567C"/>
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=FFFF99"/>
  
-  <br/>
+  <br>
   
 <p align="center">
   <h2 align="left"> 🚩 3/3 ~ (1주차) </h2>
@@ -75,28 +76,29 @@
   <h2 align="left"> 📢 5/12 ~ (11주차) </h2>  
   <p align="left">
   ✅ • 반응형 웹 사이트 제작 - Footer 섹션<br/>
-  ✅ • DB 연동하기<br/>
+  ✅ • 웹 호스팅 -> 파이어베이스 & Node js<br/>
   
 <p align="center">
   <h2 align="left"> 🚩 5/19 ~ (12주차) </h2>  
   <p align="left">
+  ✅ • DB 연동하기<br/>
   ✅ • 반응형 웹 사이트 제작 - 로그인 섹션<br/>
   ✅ • 반응형 웹 사이트 제작 - 회원가입 섹션<br/>
-  ✅ • 반응형 웹 사이트 제작 - 로그인/회원가입 섹션 꾸미기 <br/>
   
 <p align="center">
   <h2 align="left"> 📢 5/26 ~ (13주차) </h2>  
   <p align="left">
-  ✅ • 반응형 웹 사이트 제작 - 로그인 세션 변경<br/>
+  ✅ • 반응형 웹 사이트 제작 - 로그인 세션 변경작업<br/>
   ✅ • 반응형 웹 사이트 제작 - 로그아웃 섹션<br/>
-  ✅ • 반응형 웹 사이트 제작 - 포트폴리오 공유 게시판 섹션 <br/>
+  ❌ • 반응형 웹 사이트 제작 - 포트폴리오 공유 게시판 섹션 <br/>
   ✅ • 반응형 웹 사이트 제작 - PC버전 마무리 작업<br/>
   
 <p align="center">
   <h2 align="left"> 🚩 6/2 ~ (14주차) </h2>  
   <p align="left">
   ✅ • 반응형 웹 사이트 제작 - 모바일 레이아웃 제작<br/>
-  ✅ • 면담
+  ✅ • 면담<br/>
+  
 <p align="center">
   <h2 align="left"> 🚩 6/9 ~ (15주차) </h2>  
   <p align="left">
@@ -105,4 +107,4 @@
  <p align="center">
   <h2 align="left"> 📢 6/16 (16주차) </h2>  
   <p align="left">
-  • 캡디 프로젝트 최종 발표<br/> 
+  ✅ • 캡디 프로젝트 최종 발표<br/> 
